@@ -3,6 +3,13 @@
 ## Project Homepage
 https://ray3572.github.io/AdaptedMoE_web/
 
+## Features
+1. optimize train/test process of   
+SimpleNet:   
+https://github.com/DonaldRR/SimpleNet  
+**3X faster than before with same precision**  
+2. AdaptedMoE
+
 ## Install  
 conda create -n AdaptedMoE python=3.10  
 conda activate AdaptedMoE  
@@ -17,12 +24,9 @@ self.datasets="type of train target"
 python train_AdaptedMoE.py  
 python train_SimpleNet_baseline.py  
 
-
-## Features
-1. optimize train/test process of   
-SimpleNet:   
+## Reference
 https://github.com/DonaldRR/SimpleNet  
-**3X faster than before with same precision**
+
 
 
 
