@@ -7,7 +7,7 @@ https://ray3572.github.io/AdaptedMoE_web/
 1. optimize train/test process of   
 SimpleNet:   
 https://github.com/DonaldRR/SimpleNet  
-**3X faster than before with same precision**  
+**3X faster than the original code with same precision**  
 2. AdaptedMoE
 
 ## Install  
